@@ -1,0 +1,316 @@
+decision count 0
+0 c10 c9 0791852346
+0 c10 c9 1791852346
+decision count 1
+1 c10 c9 0923476518
+1 c10 c9 1923467518
+1 c10 c9 2623497518
+1 c10 c9 3623479518
+1 c10 c9 4923456718
+1 c10 c9 5623459718
+1 c10 c9 6923476518
+decision count 2
+2 c10 c9 0845136792
+2 c10 c9 1845136792
+decision count 3
+3 c10 c9 0938745162
+3 c10 c9 1398745162
+3 c10 c9 2389745162
+3 c10 c9 3384975162
+3 c10 c9 4348975162
+3 c10 c9 5934785162
+3 c10 c9 6394785162
+3 c10 c9 7349785162
+3 c10 c9 8384795162
+3 c10 c9 9348795162
+3 c10 c9 10982745163
+3 c10 c9 11984275163
+3 c10 c9 12948275163
+3 c10 c9 13942785163
+3 c10 c9 14382745169
+3 c10 c9 15384275169
+3 c10 c9 16348275169
+3 c10 c9 17342785169
+3 c10 c9 18938745162
+decision count 4
+4 c10 c9 0598761324
+4 c10 c9 1589761324
+4 c10 c9 2598671324
+4 c10 c9 3589671324
+4 c10 c9 4598716324
+4 c10 c9 5589716324
+4 c10 c9 6598617324
+4 c10 c9 7589617324
+4 c10 c9 8538961724
+4 c10 c9 9539681724
+4 c10 c9 10538691724
+4 c10 c9 11538916724
+4 c10 c9 12538619724
+4 c10 c9 13538761924
+4 c10 c9 14538671924
+4 c10 c9 15538716924
+4 c10 c9 16538617924
+4 c10 c9 17538961274
+4 c10 c9 18539681274
+4 c10 c9 19538691274
+4 c10 c9 20
+decision count 5
+5 c10 c9 0976341582
+5 c10 c9 1176349582
+5 c10 c9 2976341285
+5 c10 c9 3176349285
+5 c10 c9 4176342985
+5 c10 c9 5176342589
+5 c10 c9 6976341582
+decision count 6
+6 c10 c9 0369728451
+6 c10 c9 1367928451
+6 c10 c9 2369728451
+decision count 7
+7 c10 c9 0258714639
+7 c10 c9 1258714639
+decision count 8
+8 c10 c9 0419653827
+8 c10 c9 1419563827
+8 c10 c9 2419653827
+Number6 bin32
+s 6
+Number4 bin8
+s 4
+Number0 bin22
+s 2
+s 3
+s 5
+Number0 bin258
+s 2
+s 9
+Number0 bin272
+s 5
+s 9
+Number8 bin128
+s 8
+Number1 bin1
+s 1
+Number0 bin256
+s 9
+Number7 bin64
+s 7
+Number8 bin128
+s 8
+Number1 bin1
+s 1
+Number0 bin80
+s 5
+s 7
+Number0 bin352
+s 6
+s 7
+s 9
+Number0 bin368
+s 5
+s 6
+s 7
+s 9
+Number4 bin8
+s 4
+Number3 bin4
+s 3
+Number2 bin2
+s 2
+Number0 bin288
+s 6
+s 9
+Number0 bin18
+s 2
+s 5
+Number9 bin256
+s 9
+Number0 bin82
+s 2
+s 5
+s 7
+Number0 bin98
+s 2
+s 6
+s 7
+Number3 bin4
+s 3
+Number1 bin1
+s 1
+Number0 bin24
+s 4
+s 5
+Number0 bin8
+s 4
+Number8 bin128
+s 8
+Number0 bin262
+s 2
+s 3
+s 9
+Number6 bin32
+s 6
+Number1 bin1
+s 1
+Number5 bin16
+s 5
+Number0 bin456
+s 4
+s 7
+s 8
+s 9
+Number0 bin322
+s 2
+s 7
+s 9
+Number0 bin394
+s 2
+s 4
+s 8
+s 9
+Number0 bin396
+s 3
+s 4
+s 8
+s 9
+Number0 bin260
+s 3
+s 9
+Number4 bin8
+s 4
+Number0 bin194
+s 2
+s 7
+s 8
+Number0 bin326
+s 2
+s 3
+s 7
+s 9
+Number0 bin355
+s 1
+s 2
+s 6
+s 7
+s 9
+Number0 bin481
+s 1
+s 6
+s 7
+s 8
+s 9
+Number0 bin354
+s 2
+s 6
+s 7
+s 9
+Number0 bin386
+s 2
+s 8
+s 9
+Number0 bin388
+s 3
+s 8
+s 9
+Number5 bin16
+s 5
+Number0 bin274
+s 2
+s 5
+s 9
+Number0 bin146
+s 2
+s 5
+s 8
+Number0 bin274
+s 2
+s 5
+s 9
+Number0 bin259
+s 1
+s 2
+s 9
+Number0 bin393
+s 1
+s 4
+s 8
+s 9
+Number3 bin4
+s 3
+Number6 bin32
+s 6
+Number7 bin64
+s 7
+Number0 bin257
+s 1
+s 9
+Number1 bin1
+s 1
+Number0 bin16
+s 5
+Number0 bin280
+s 4
+s 5
+s 9
+Number8 bin128
+s 8
+Number2 bin2
+s 2
+Number0 bin336
+s 5
+s 7
+s 9
+Number0 bin320
+s 7
+s 9
+Number6 bin32
+s 6
+Number0 bin260
+s 3
+s 9
+Number0 bin256
+s 9
+Number3 bin4
+s 3
+Number6 bin32
+s 6
+Number4 bin8
+s 4
+Number0 bin321
+s 1
+s 7
+s 9
+Number0 bin320
+s 7
+s 9
+Number0 bin448
+s 7
+s 8
+s 9
+Number5 bin16
+s 5
+Number2 bin2
+s 2
+Number7 bin64
+s 7
+Number0 bin18
+s 2
+s 5
+Number8 bin128
+s 8
+Number3 bin4
+s 3
+Number0 bin304
+s 5
+s 6
+s 9
+Number0 bin304
+s 5
+s 6
+s 9
+Number0 bin256
+s 9
+Number1 bin1
+s 1
+Number4 bin8
+s 4
